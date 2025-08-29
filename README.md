@@ -51,13 +51,17 @@ Implementar un sistema de **prompts optimizados** que, a partir de una **base de
 
 PREENTREGA2_IA_GENERACION_PROMPTS/
 │
+
 ├── data/
 │ └── base_conocimiento_afiliaciones_clean.csv # Base de conocimiento (FAQs validadas)
+
 │
 ├── docs/
 │ └── Preentrega2_Abarca_Patricia.pdf # Documento con desarrollo del proyecto
+
 │
 ├── notebooks/
 │ └── 01_fast_prompting.ipynb # Notebook con implementación y pruebas
+
 │
 └── README.md # Resumen del proyecto
