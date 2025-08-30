@@ -1,4 +1,4 @@
-# 📌 Asistente IA de Afiliaciones
+# Asistente IA de Afiliaciones
 
 ## Introducción
 
