@@ -61,7 +61,8 @@ PREENTREGA2_IA_GENERACION_PROMPTS/
 
 │
 ├── notebooks/
-│ └── 01_fast_prompting.ipynb # Notebook con implementación y pruebas
+│ └── 01_fast_prompting_texto_texto.ipynb # Notebook con implementación y pruebas
+│ └── 02_fast_prompting_texto_imagen.ipynb # Notebook con implementación y pruebas
 
 │
 └── README.md # Resumen del proyecto
