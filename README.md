@@ -60,6 +60,10 @@ PREENTREGA2_IA_GENERACION_PROMPTS/
 ├── docs/
 │ └── Preentrega2_Abarca_Patricia.pdf # Documento con desarrollo del proyecto
 
+│ └── 01_fast_prompting_texto_texto.pdf archivo pdf de la notebook 
+
+│ └── 02_fast_prompting_texto_imagen.pdf archivo pdf de la notebook 
+
 │
 
 ├── notebooks/
